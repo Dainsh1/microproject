@@ -1,1 +1,50 @@
-
+[
+    {
+        "id": 1,
+        "name": "I-Rad X",
+        "price": 299.99,
+        "description": "High performance with advanced features."
+    },
+    {
+        "id": 2,
+        "name": "I-Rad OS",
+        "price": 349.99,
+        "description": "Optimized for the best sound experience."
+    },
+    {
+        "id": 3,
+        "name": "I-Rad Pro",
+        "price": 399.99,
+        "description": "Professional grade with top-notch quality."
+    },
+    {
+        "id": 4,
+        "name": "I-Rad MAX",
+        "price": 449.99,
+        "description": "Maximum power and performance."
+    },
+    {
+        "id": 5,
+        "name": "I-Rad Plus",
+        "price": 249.99,
+        "description": "Affordable with great features."
+    },
+    {
+        "id": 6,
+        "name": "I-Rad Mini",
+        "price": 199.99,
+        "description": "Compact and portable design."
+    },
+    {
+        "id": 7,
+        "name": "I-Rad Studio",
+        "price": 499.99,
+        "description": "Studio quality for professionals."
+    },
+    {
+        "id": 8,
+        "name": "I-Rad Classic",
+        "price": 149.99,
+        "description": "Classic design with modern features."
+    }
+]
